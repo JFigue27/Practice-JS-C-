@@ -1,7 +1,7 @@
 using System;
 
 
-namespace C.practice1
+namespace C_.practice1
 {
     public class retos1_5
     {
@@ -62,8 +62,6 @@ namespace C.practice1
             decimal resultMulti = Math.Round((resultSum * nu3), 2);
 
             Console.WriteLine("This is the result of the multiplication: " + resultMulti);
-
-
 
             Console.WriteLine("-");
         }

@@ -1,6 +1,5 @@
 ﻿using System;
-using C.practice1;
-
+using C_.practice1;
 
 namespace C_
 {
@@ -10,8 +9,11 @@ namespace C_
         {
             // Console.Write(true);
             Console.WriteLine("Hello World!");
-            var reto1_5 = new retos1_5();
-            reto1_5.Resto1_5();
+            // var reto1_5 = new retos1_5();
+            // reto1_5.Resto1_5();
+
+            var Retos6_11 = new retos6_11();
+            Retos6_11.reto6();
 
         }
     }
