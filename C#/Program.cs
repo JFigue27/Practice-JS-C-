@@ -15,8 +15,11 @@ namespace C_
             // var Retos6_11 = new retos6_11();
             // Retos6_11.reto6();
 
-            var Challenge7 = new challenge7();
-            Challenge7.Challenge7();
+            // var Challenge7 = new challenge7();
+            // Challenge7.Challenge7();
+
+            var Challenge8 = new challenge8();
+            Challenge8.Challenge_8();
 
         }
     }
