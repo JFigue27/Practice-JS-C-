@@ -1,5 +1,6 @@
 ﻿using System;
 using C_.practice1;
+using C_.practice2;
 
 namespace C_
 {
@@ -18,8 +19,13 @@ namespace C_
             // var Challenge7 = new challenge7();
             // Challenge7.Challenge7();
 
-            var Challenge8 = new challenge8();
-            Challenge8.Challenge_8();
+            // var Challenge8 = new challenge8();
+            // Challenge8.Challenge_8();
+
+            /// Paractice number 2
+
+            var Challenge_1 = new challenge1();
+            Challenge_1.Challenge_1();
 
         }
     }
